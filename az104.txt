@@ -1,4 +1,4 @@
-azure spark databrick essentials  sample
+azure spark databrick essentials  changed in repo
 DP-100
 Create machine learning models
 use visual tools to create ML models with azure machine learning
