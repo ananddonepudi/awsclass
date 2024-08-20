@@ -1,0 +1,23 @@
+azure spark databrick essentials 
+DP-100
+Create machine learning models
+use visual tools to create ML models with azure machine learning
+build and operate machine learning solutions with azure machine learning 
+build and operate machine learning solutions with azure data bricks  
+
+Deploy and operationalize  ML Solutions 
+manage azure resources for ML
+run experiments and train models 
+implement responsible ML
+
+ML Models-
+  supervised ML
+     Regression model - output is numeric - identify sales per day
+     classification model - estimate a categorical outcome - new release fall in which category
+  unsupervised ML
+     clustering -creates groupings - category the data of different customer segments
+  Deeplearning model 
+      It can be both sup or unsup when data is more using chatbot
+visual tools in azure
+  Azure automated ML -wizard to train models using combo of algorithm and data preprocessing 
+  Azure ML designer- a drag and drop for no code ML development
